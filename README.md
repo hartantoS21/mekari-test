@@ -7,8 +7,9 @@ addon
 1. npm install faker
 2. npm install allure-commandline
 
-for run automation use
-1. npm test
+To run the automation tests:
+1. Navigate to the directory containing the automation scripts.
+2. Run the command npm test
 
 alternative run
 1. npx codeceptjs run --verbose     
