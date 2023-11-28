@@ -1,6 +1,6 @@
 ﻿# mekari-test
 Require
-1. npm
+1. install npm
 2. npm install codeceptjs playwright --save
 
 addon
