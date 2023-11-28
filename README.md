@@ -8,8 +8,9 @@ addon
 2. npm install allure-commandline
 
 for run automation use
+1. npm test
+
+alternative run
 1. npx codeceptjs run --verbose     
-npx codeceptjs run --steps
-or 
-1. npm test (only project mobile and web)
+2. npx codeceptjs run --steps
 # mekari-test
